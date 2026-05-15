@@ -51,6 +51,13 @@ chinese-poetry-master/
 → 8. Prosody Analysis → 9. Expert Criticism (2-3 scholars) → 10. Synthesis
 ```
 
+### Download
+
+```bash
+git clone https://github.com/KimiAntolini/chinese-poetry-master.git
+# or: curl -LO https://github.com/KimiAntolini/chinese-poetry-master/archive/main.zip
+```
+
 ### Installation
 
 | Platform | Method |
@@ -104,6 +111,21 @@ chinese-poetry-master/
     ├── poetry-synthesis/          # 10. 综合赏析（多维整合框架+鉴赏词汇库）
     └── poetry-modern/             # 11. 近现代&当代专项（新诗+旧体诗词+当代意象）
 ```
+
+### 下载
+
+```bash
+git clone https://github.com/KimiAntolini/chinese-poetry-master.git
+# 或下载 ZIP：https://github.com/KimiAntolini/chinese-poetry-master/archive/main.zip
+```
+
+### 安装方式
+
+| 平台 | 方法 |
+|------|------|
+| **OpenCode** | 复制到 `~/.config/opencode/skills/chinese-poetry-master/` |
+| **Claude Code** | 复制到 `~/.claude/skills/chinese-poetry-master/` |
+| **GPT / 其他** | 将 `SKILL.md` 作为 System Prompt 注入，子 Skill 按需加载 |
 
 ### 使用示例
 
