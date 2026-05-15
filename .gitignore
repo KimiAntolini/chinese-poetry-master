@@ -1,0 +1,15 @@
+# Internal dev guide — don't distribute
+CLAUDE.md
+
+# Test reports — internal
+测试结果/
+
+# Scripts — build tools only
+scripts/
+
+# Temporary downloaded data
+tmp_data/
+
+# OS files
+.DS_Store
+Thumbs.db
